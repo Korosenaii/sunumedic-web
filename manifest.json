@@ -1,0 +1,35 @@
+{
+    "name": "SunuMedic",
+    "short_name": "SunuMedic",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#EAF8FF",
+    "theme_color": "#168AD8",
+    "description": "SunuMedic — votre santé mérite la priorité. Rendez-vous, dossier médical et cliniques au Sénégal.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
